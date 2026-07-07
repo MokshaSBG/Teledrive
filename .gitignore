@@ -1,0 +1,3 @@
+third_party/tdlib/build/
+third_party/tdlib/install/
+.env
