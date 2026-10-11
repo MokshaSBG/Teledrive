@@ -64,7 +64,7 @@ For a deeper dive, see [ARCHITECTURE.md](./docs/ARCHITECTURE.md).
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/teldrive.git
+git clone https://github.com/MokshaSBG/teldrive.git
 cd teldrive
 
 # Install dependencies
